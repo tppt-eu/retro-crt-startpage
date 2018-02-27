@@ -84,11 +84,7 @@
       "name": "FreshRSS",
       "url": "https://freshrss.org",
       "icon": "icon-rss.png",
-<<<<<<< HEAD
       "invert": true,
-=======
-      "invert": false,
->>>>>>> 2f91ac9392958ae9b6e20c724be1e7d5377de96c
       "tags": [
         "news",
         "feed"
