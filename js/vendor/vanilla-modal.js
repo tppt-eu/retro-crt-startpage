@@ -223,10 +223,7 @@
             onBeforeOpen = _settings2.onBeforeOpen,
             onOpen = _settings2.onOpen;
 
-<<<<<<< HEAD
         this.closeModal(e);
-=======
->>>>>>> 2f91ac9392958ae9b6e20c724be1e7d5377de96c
         if (!(this.current instanceof HTMLElement === false)) {
           throwError('VanillaModal target must exist on page.');
           return;
